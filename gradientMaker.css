@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+  letter-spacing: .5em;
+  text-align: center;
+  top: 15%;
+  color: rgba(0, 0, 0, 0.5);
+  text-transform: uppercase;
+  background: linear-gradient(to right, #00ff00, #ff0000);
+}
+h1 {
+  font-size: 3.5em;
+}
